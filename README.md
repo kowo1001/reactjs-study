@@ -24,6 +24,19 @@
 
 ---
 
+
+### [J-Chris / kowo1001](https://github.com/kowo1001)
+
+- 사이트
+  - https://github.com/kowo1001/BLOG_React
+  - https://github.com/kowo1001/Shopping-Mall_React
+
+- 목표
+  - 블로그, 쇼핑몰 사이트 (+시간 된다면, 맛집 소개 사이트까지)
+
+- 각오 한 마디
+  > 하루에 1강~2강 이상은 꼭 강의 수강하고 과제를 다 해놓자! 추가로 배운 내용은 블로그에 꼭 정리해서 복습하자! 입니다.
+
 ## ✏️ 진행 사항
 
 |Author|Contents|URL|
