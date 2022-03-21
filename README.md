@@ -24,7 +24,6 @@
 
 ---
 
-
 ### [J-Chris / kowo1001](https://github.com/kowo1001)
 
 - 사이트
@@ -37,5 +36,22 @@
 - 각오 한 마디
   > 하루에 1강~2강 이상은 꼭 강의 수강하고 과제를 다 해놓자! 추가로 배운 내용은 블로그에 꼭 정리해서 복습하자! 입니다.
 
+---
+
+### [케이 / OpusK](https://github.com/OpusK)
+
+- 사이트
+  - https://github.com/OpusK/react_tetris
+
+- 목표
+  - 테트리스 게임 만들기 (우선 싱글플레이 -> 여유되면 멀티플레이 지원)
+
+- 각오 한 마디
+  > 즐겁게 만들기, 정리하며 만들기!
+
+---
+
+
 [발가락]: https://github.com/6lueparr0t
 [J-Chris]: https://github.com/kowo1001
+[케이]: https://github.com/OpusK
