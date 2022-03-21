@@ -67,6 +67,19 @@
 
 ---
 
+### [곰가드 / wooseok123](https://github.com/gomguard)
+
+- 사이트
+  - [https://github.com/gomguard/react_study_2203](https://github.com/gomguard/react_study_2203)
+
+- 목표
+  - 게시판, 회원가입 등의 기본기능을 갖춘 커뮤니티 (아직 클론할 사이트를 정하진 않음)
+
+- 각오 한 마디
+  > 이번기회에 react 를 잘 배워보려합니다. 
+
+---
+
 [발가락]: https://github.com/6lueparr0t
 [J-Chris]: https://github.com/kowo1001
 [케이]: https://github.com/OpusK
