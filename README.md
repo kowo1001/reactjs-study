@@ -52,6 +52,22 @@
 ---
 
 
+### [wooseok123 / wooseok123](https://github.com/wooseok123)
+
+- 사이트
+  - [https://nomadcoders.co/react-for-beginners](https://github.com/wooseok123/javascript/tree/master/nomadcoder-reactJS)
+
+- 목표
+  - 노마드코더의 영화서비스 클론코딩하기
+  - 토, 일요일에 각각 2~3강씩 수강하기
+  - 기초 개념을 배우고, https://github.com/wooseok123/self_interested/tree/main/haksik 학식 페이지에 리액트 적용하기
+
+- 각오 한 마디
+  > 
+
+---
+
 [발가락]: https://github.com/6lueparr0t
 [J-Chris]: https://github.com/kowo1001
 [케이]: https://github.com/OpusK
+[wooseok123]: https://github.com/wooseok123
