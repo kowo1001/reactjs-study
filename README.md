@@ -12,8 +12,8 @@
 
 ### [발가락 / 6lueparr0t](https://github.com/6lueparr0t)
 
-- 사이트
-  - [https://play.rgbplace.com](https://github.com/6lueparr0t/rgbplace-play)
+- [사이트](https://6lueparr0t.github.io/play-rgbplace/)
+  - https://github.com/6lueparr0t/play-rgbplace
 
 - 목표
   - 기존의 VueJS 로 만든 사이트를 ReactJS 로 바꾸기
@@ -40,7 +40,7 @@
 
 ### [케이 / OpusK](https://github.com/OpusK)
 
-- 사이트
+- [사이트](https://ketris.vercel.app/)
   - https://github.com/OpusK/react_tetris
 
 - 목표
