@@ -71,7 +71,7 @@
 
 |Author|사이트|week 1|
 |:---|:---|:---|
-|[발가락][발가락]|https://6lueparr0t.github.io/play-rgbplace/|![1_2022-04-03_1](https://github.com/hanjulcoding/reactjs-study/blob/main/image/week1/1_2022-04-03_1.jpeg?raw=true)|
+|[발가락][발가락]|https://6lueparr0t.github.io/play-rgbplace/|![1_2022-04-03_1](https://github.com/hanjulcoding/reactjs-study/blob/main/image/week1/1_2022-04-03_1.png?raw=true)<br/>![1_2022-04-03_2](https://github.com/hanjulcoding/reactjs-study/blob/main/image/week1/1_2022-04-03_2.png?raw=true)|
 | | |
 |[케이][케이]|https://ketris.vercel.app/|![2_2022-04-03_1](https://github.com/hanjulcoding/reactjs-study/blob/main/image/week1/2_2022-04-03_1.png?raw=true)||
 | | |
