@@ -6,7 +6,7 @@
 | | |
 |[케이][케이]|https://ketris.vercel.app/|![2_2022-04-03_1](https://github.com/hanjulcoding/reactjs-study/blob/main/image/week1/2_2022-04-03_1.png?raw=true)||
 | | |
-|[J-Chris][J-Chris]| - | - |
+|[J-Chris][J-Chris]| https://github.com/kowo1001/BLOG_React | - |
 | | |
 |[wooseok123][wooseok123]| - | - |
 ---
